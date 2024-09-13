@@ -1,0 +1,6 @@
+body {
+    background-color: rgb(110, 207, 194, 0.3);
+}
+ul li {
+    display: inline;
+}
